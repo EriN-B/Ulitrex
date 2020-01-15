@@ -1,1 +1,2 @@
-# UliTrex_TheGame
+# UliTrex
+Projekt BLJ 2019
